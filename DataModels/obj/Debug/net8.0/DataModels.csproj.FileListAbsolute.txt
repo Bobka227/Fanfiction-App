@@ -1,0 +1,12 @@
+D:\Shar_C\Semestralka_BSCSH\DataModels\bin\Debug\net8.0\DataModels.deps.json
+D:\Shar_C\Semestralka_BSCSH\DataModels\bin\Debug\net8.0\DataModels.dll
+D:\Shar_C\Semestralka_BSCSH\DataModels\bin\Debug\net8.0\DataModels.pdb
+D:\Shar_C\Semestralka_BSCSH\DataModels\obj\Debug\net8.0\DataModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shar_C\Semestralka_BSCSH\DataModels\obj\Debug\net8.0\DataModels.AssemblyInfoInputs.cache
+D:\Shar_C\Semestralka_BSCSH\DataModels\obj\Debug\net8.0\DataModels.AssemblyInfo.cs
+D:\Shar_C\Semestralka_BSCSH\DataModels\obj\Debug\net8.0\DataModels.csproj.CoreCompileInputs.cache
+D:\Shar_C\Semestralka_BSCSH\DataModels\obj\Debug\net8.0\DataModels.sourcelink.json
+D:\Shar_C\Semestralka_BSCSH\DataModels\obj\Debug\net8.0\DataModels.dll
+D:\Shar_C\Semestralka_BSCSH\DataModels\obj\Debug\net8.0\refint\DataModels.dll
+D:\Shar_C\Semestralka_BSCSH\DataModels\obj\Debug\net8.0\DataModels.pdb
+D:\Shar_C\Semestralka_BSCSH\DataModels\obj\Debug\net8.0\ref\DataModels.dll

@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Shar_C\\Semestralka_BSCSH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82C9E072-808B-41A5-8775-4D91225C1CB9}|Semestralka_BSCSH\\Semestralka_BSCSH.csproj|d:\\shar_c\\semestralka_bscsh\\semestralka_bscsh\\autorspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82C9E072-808B-41A5-8775-4D91225C1CB9}|Semestralka_BSCSH\\Semestralka_BSCSH.csproj|solutionrelative:semestralka_bscsh\\autorspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C9E072-808B-41A5-8775-4D91225C1CB9}|Semestralka_BSCSH\\Semestralka_BSCSH.csproj|d:\\shar_c\\semestralka_bscsh\\semestralka_bscsh\\addfanficwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C9E072-808B-41A5-8775-4D91225C1CB9}|Semestralka_BSCSH\\Semestralka_BSCSH.csproj|solutionrelative:semestralka_bscsh\\addfanficwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C9E072-808B-41A5-8775-4D91225C1CB9}|Semestralka_BSCSH\\Semestralka_BSCSH.csproj|d:\\shar_c\\semestralka_bscsh\\semestralka_bscsh\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C9E072-808B-41A5-8775-4D91225C1CB9}|Semestralka_BSCSH\\Semestralka_BSCSH.csproj|solutionrelative:semestralka_bscsh\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDD5005-7F6F-4EE3-9184-71D0C7EE356C}|DB_Editor\\DB_Editor.csproj|d:\\shar_c\\semestralka_bscsh\\db_editor\\fanficreaderdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDD5005-7F6F-4EE3-9184-71D0C7EE356C}|DB_Editor\\DB_Editor.csproj|solutionrelative:db_editor\\fanficreaderdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutorsPage.xaml",
+              "DocumentMoniker": "D:\\Shar_C\\Semestralka_BSCSH\\Semestralka_BSCSH\\AutorsPage.xaml",
+              "RelativeDocumentMoniker": "Semestralka_BSCSH\\AutorsPage.xaml",
+              "ToolTip": "D:\\Shar_C\\Semestralka_BSCSH\\Semestralka_BSCSH\\AutorsPage.xaml",
+              "RelativeToolTip": "Semestralka_BSCSH\\AutorsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-05T22:49:53.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddFanficWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Shar_C\\Semestralka_BSCSH\\Semestralka_BSCSH\\AddFanficWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Semestralka_BSCSH\\AddFanficWindow.xaml.cs",
+              "ToolTip": "D:\\Shar_C\\Semestralka_BSCSH\\Semestralka_BSCSH\\AddFanficWindow.xaml.cs",
+              "RelativeToolTip": "Semestralka_BSCSH\\AddFanficWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:44:39.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Shar_C\\Semestralka_BSCSH\\Semestralka_BSCSH\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Semestralka_BSCSH\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Shar_C\\Semestralka_BSCSH\\Semestralka_BSCSH\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Semestralka_BSCSH\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:43:55.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FanficReaderDatabase.cs",
+              "DocumentMoniker": "D:\\Shar_C\\Semestralka_BSCSH\\DB_Editor\\FanficReaderDatabase.cs",
+              "RelativeDocumentMoniker": "DB_Editor\\FanficReaderDatabase.cs",
+              "ToolTip": "D:\\Shar_C\\Semestralka_BSCSH\\DB_Editor\\FanficReaderDatabase.cs",
+              "RelativeToolTip": "DB_Editor\\FanficReaderDatabase.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:43:38.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
